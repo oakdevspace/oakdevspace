@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabir Umar
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently a enrolled into ALX Software Engineering course.
+- 🌱 I’m currently enrolled into ALX Software Engineering course.
 - 💞️ I’m open to any collaborations
 - 📫 How to reach me:
 - Email: adermkabeer@gmail.com
